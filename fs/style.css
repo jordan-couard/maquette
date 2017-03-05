@@ -1,0 +1,264 @@
+body {
+    background-color: black;
+    color: lightgrey;
+    font-size: 3vh;
+}
+
+.BG {
+    background-image: url(img/bg.jpg);
+    height: auto;
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: 78%;
+    margin-left: -1%;
+}
+
+.FULL {
+  background-image: url(img/full.jpg);
+  height: 86.55em;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: 75%;
+}
+
+#left-box {
+    position: absolute;
+    margin-top: 20px;
+    width: 30%;
+    height: auto;
+    font-size: 1vw;
+    margin-left: 10%;
+}
+
+h1 {
+    border-top: 4px solid yellow;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+    background-color: yellow;
+    font-size: 1em;
+    margin-top: -10px;
+    font-weight: bold;
+}
+
+.para2 {
+    float: left;
+    border: 2px solid #yellow;
+    padding: 3px;
+}
+
+.para3 {
+    float: right;
+    border: 2px solid yellow;
+    padding: 3px;
+}
+
+#inbox {
+    border-left: 3px solid yellow;
+    margin-left: 2px;
+    padding-left: 5px;
+}
+.fin-para {
+    margin-top: -15px;
+}
+
+.permalink {
+    color: yellow;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.comments {
+    border-left: 2px solid white;
+    font-weight: bold;
+    font-size: 15px;
+    color: yellow;
+    padding-left: 10px;
+}
+
+#yellow {
+    color: yellow;
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+#bas li {
+    color: #8C8C8C;
+    border-top: ;
+    border-bottom: ;
+    list-style: none;
+}
+
+.les-etoiles {
+    margin-left: 1.5em;
+}
+
+#droite {
+    position: absolute;
+    margin-left: 15em;
+    margin-top: -17.3em;
+}
+
+#droite li {
+    list-style: none;
+    color: #8C8C8C;
+}
+
+#premier-titre {
+    margin-left: 1.5em;
+}
+
+#deux-titre {
+    margin-left: 1.5em;
+}
+.right-box{
+  float: right;
+  height: 18em;
+  margin-right: 6.3em;
+  width: 16em;
+  color: white;
+}
+.picture{
+  height: 19.7em;
+}
+.freestyle{
+  margin-top: -15.5em;
+  margin-left: 5.5em;
+  letter-spacing: -0.3em;
+}
+div #free{
+  font-weight: bold;
+  margin-bottom: -0.68em;
+  font-size: 3em;
+}
+div #style{
+  font-weight: bold;
+  margin-left: -0.3em;
+  font-size: 3em;
+}
+.home ul{
+  list-style: none;
+  margin-top: 10em;
+  margin-left: 1em;
+  font-weight: bold;
+}
+li img{
+  margin-top: -0.3em;
+}
+#hdroite{
+  font-weight: bold;
+  font-size: 1.3em;
+  margin-left: 1.8em;
+  width: 9.5em;
+  padding-top: 0.2em;
+}
+#h2droite{
+  color: #E334D4;
+  background-color: yellow;
+  font-size: 0.8em;
+  margin-top: -10px;
+  margin-left: 3em;
+  font-weight: bold;
+  width: 15.4em;
+}
+#news{
+  list-style: none;
+  font-weight: bold;
+  font-size: 0.8em;
+  border: 3px yellow solid;
+  margin-top: -0.6em;
+  width: 15.4em;
+  margin-left: 3em;
+  padding-left: 0.5em;
+  height: 30em;
+}
+#news li{
+  margin-bottom: 1em;
+}
+li{
+  letter-spacing: -0.08em;
+}
+#hdroitee{
+  font-weight: bold;
+  font-size: 1.3em;
+  margin-left: 1.5em;
+  width: 9.2em;
+  padding-top: 0.2em;
+}
+.box-end{
+  width: 12em;
+  margin-left: 2em;
+  border: 3px solid yellow;
+}
+#h2droitee{
+  color: #E334D4;
+  background-color: yellow;
+  font-size: 0.8em;
+  margin-top: -10px;
+  margin-left: -0.2em;
+  font-weight: bold;
+  width: 15em;
+}
+
+#pend{
+  font-size: 0.73em;
+  margin-top: -0.3em;
+  padding-left: 0.6em;
+}
+.down-box li{
+  background-color: #1F1F1F;
+  width: 10em;
+  height: 1.8em;
+  padding-left: 1.2em;
+  font-size: 1.2em;
+  color: #B5B3B3;
+  border-top: 1px solid #8C8C8C;
+  border-bottom: 1px solid #8C8C8C;
+
+}
+#gras{
+  font-weight: bold;
+}
+#italic{
+  font-style: italic;
+  color: white;
+}
+.milieu{
+  border-top: 3px solid yellow;
+  border-bottom: 3px solid yellow;
+  background-color: #1F1F1F;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+.picsplash{
+  margin-top: 10em;
+  font-size: 15px;
+}
+.foote li{
+  list-style: none;
+  display: inline-block;
+  margin-top: 3em;
+  font-size: 15px;
+  border-right: 1px white solid;
+  margin-right: 0.5em;
+  padding-right: 1em;
+}
+.foote{
+  background-color: black;
+  width: 25em;
+  margin-left: 15em;
+  margin-top: -3em;
+}
+#adroite{
+  font-size: 15px;
+  width: 40em;
+}
