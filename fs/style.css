@@ -147,7 +147,7 @@ div #style{
 .home ul{
   list-style: none;
   margin-top: 10em;
-  margin-left: 1em;
+  margin-left: 1.5em;
   font-weight: bold;
 }
 li img{
@@ -261,4 +261,8 @@ li{
 #adroite{
   font-size: 15px;
   width: 40em;
+}
+#graph{
+  color: yellow;
+  font-weight: 600;
 }
